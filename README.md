@@ -4,8 +4,8 @@
  learn about the underlying technology. Since then I have became truly intrigued with computers and this amazing community. I'm currently trying to learn as much
  as I can and get expierence along the way. 
 
-- Some of my big interests are, [cybersecuity: bash scripting, ethical hacking tools, linux ...], [software development: Java, C/C++, python], 
--[Cryptocurrency/Economics: Bitcoin, Ethereum, Blockchain and underlying concepts.]  
+- Some of my big interests are, [cybersecuity: scripting, ethical hacking tools, linux ...], [software development: Java, C/C++, Python], 
+[Cryptocurrency/Economics: Bitcoin, Ethereum, Blockchain and underlying concepts]  
 
 <!---
 koleada/koleada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
