@@ -4,7 +4,7 @@
  learn about the underlying technology. Since then I have became truly intrigued with computers and this amazing community. I'm currently trying to learn as much
  as I can and get expierence along the way. 
 
-- Some of my big interests are, [cybersecuity: scripting, ethical hacking tools, linux ...], [software development: Java, C/C++, Python], 
+- Some of my big interests are, [cybersecuity: scripting, ethical hacking tools, linux ...], [software development: Java, HTML, CSS, Javascript], 
 [Cryptocurrency/Economics: Bitcoin, Ethereum, Blockchain and underlying concepts]  
 
 <!---
